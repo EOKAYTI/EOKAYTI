@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm EOKAYTI</h1>
 <p align="center">
-  <h3 align="center">💬 “Software and cathedrals are much the same — first we build them, then we pray.”  🌱 </h3>
+  <h3 align="center">💬 “Good design is good business”  🌱 </h3>
 </p>
 <p align="center">
 
